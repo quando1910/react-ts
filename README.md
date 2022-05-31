@@ -1,5 +1,4 @@
-# b-react-ts
-Boilerplate React with TypeScript
+# Boilerplate React with TypeScript
 
 ## Based
 
